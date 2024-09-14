@@ -1,2 +1,2 @@
-# Loan-Prediction
+# Loan-Status-Prediction
 Machine Learning
